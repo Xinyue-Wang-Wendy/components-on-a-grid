@@ -14,8 +14,10 @@ body {
 }
 
 h1 {
-  width: 14rem;
-  text-align: center;
+  margin: 1rem;
+  grid-column: 1;
+  grid-row: 2;
+  z-index: 1;
 }
 
 img {
