@@ -1,7 +1,7 @@
 html {
-  font-family: "Patua One", Georgia;
   box-sizing: border-box;
   line-height: 1.5;
+  font-family: "Patua One", Georgia;
 }
 
 *::before,*::after {
@@ -11,6 +11,11 @@ html {
 body {
   background-color: #f2f1ed;
   margin: 0;
+}
+
+h1 {
+  padding: 1rem;
+  width: 14rem
 }
 
 img {
