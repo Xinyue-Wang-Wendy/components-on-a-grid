@@ -15,7 +15,8 @@ body {
 
 h1 {
   padding: 1rem;
-  width: 14rem
+  width: 14rem;
+  text-align: left;
 }
 
 img {
