@@ -1,10 +1,10 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: "Patua One", sans-serif;
+  font-family: Georgia, serif;
 }
 
-*::before,*::after {
+**::before,*::after {
   box-sizing: inherit;
 }
 
